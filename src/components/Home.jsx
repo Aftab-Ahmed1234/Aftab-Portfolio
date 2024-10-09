@@ -30,7 +30,7 @@ function Home() {
              </div>
              <br />
             <p className='text-sm md:text-md text-justify'>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem tempore atque eligendi quisquam, corporis aliquid recusandae cupiditate necessitatibus provident quaerat cum est itaque dolores ut libero perspiciatis sit eius obcaecati? Assumenda, blanditiis? A, pariatur dolorum dignissimos placeat quo accusamus magni, amet molestias, minima iure assumenda veritatis expedita dolor totam facilis.
+            As a Computer Science graduate from Sukkur IBA University with expertise in front-end web development and machine learning, I am eager to leverage my technical skills and innovative mindset in a professional setting. My passion for continuous learning and creative problem-solving drives me to deliver impactful solutions.
             </p>
             <br />
             {/* Social media icons */}
