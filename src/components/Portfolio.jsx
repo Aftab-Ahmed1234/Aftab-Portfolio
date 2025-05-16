@@ -4,7 +4,7 @@ import figma from '../../public/figma.png';
 import Cara from '../../public/Cara.png'
 import Grace_Shop from '../../public/Grace_Shop.png';
 import Feedback_App from '../../public/Feedback_App.png';
-import Backery from '../../public/online_bakery.png';
+import Online_Backery from '../../public/online_bakery.png';
 
 function Portfolio() {
   const cardItem = [
@@ -51,7 +51,7 @@ function Portfolio() {
     },
     {
       id: 6,
-      logo: online_bakery,
+      logo: Online_Backery,
       name: "Online Backery",
       text:"This is my personal portfolio i created for the showcase my past present and future projects ",
       Deployed_link: " https://online-backery.vercel.app/",
