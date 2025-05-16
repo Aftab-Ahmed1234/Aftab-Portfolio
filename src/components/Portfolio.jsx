@@ -4,7 +4,7 @@ import figma from '../../public/figma.png';
 import Cara from '../../public/Cara.png'
 import Grace_Shop from '../../public/Grace_Shop.png';
 import Feedback_App from '../../public/Feedback_App.png';
-import java from '../../public/Java-Logo.png';
+import Backery from '../../public/online_bakery.png';
 
 function Portfolio() {
   const cardItem = [
@@ -51,11 +51,11 @@ function Portfolio() {
     },
     {
       id: 6,
-      logo: java,
-      name: "Java",
+      logo: online_bakery,
+      name: "",
       text:"This is my personal portfolio i created for the showcase my past present and future projects ",
-      Deployed_link: " https://aftab-portfolio-five.vercel.app/",
-      GitHub_link:" https://github.com/Aftab-Ahmed1234/Aftab-Portfolio",
+      Deployed_link: " https://online-backery.vercel.app/",
+      GitHub_link:" https://github.com/Aftab-Ahmed1234/online_backery",
      
     },
   ];
