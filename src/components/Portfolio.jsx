@@ -52,7 +52,7 @@ function Portfolio() {
     {
       id: 6,
       logo: online_bakery,
-      name: "",
+      name: "Online Backery",
       text:"This is my personal portfolio i created for the showcase my past present and future projects ",
       Deployed_link: " https://online-backery.vercel.app/",
       GitHub_link:" https://github.com/Aftab-Ahmed1234/online_backery",
