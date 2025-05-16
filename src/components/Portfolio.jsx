@@ -30,8 +30,8 @@ function Portfolio() {
       logo: Cara,
       name: "Cara E-commerce web",
       text:"This is Online Bakery Where you can make online order for cake or sweet",
-      Deployed_link: "",
-      GitHub_link:" https://github.com/Aftab-Ahmed1234/Online-Backery",
+      Deployed_link: "https://amazing-genie-f0e8d3.netlify.app/",
+      GitHub_link:" https://github.com/Aftab-Ahmed1234/cara-e-commerce-website",
     },
     {
       id: 4,
