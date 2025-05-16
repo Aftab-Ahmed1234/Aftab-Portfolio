@@ -1,7 +1,7 @@
 import React from 'react';
 import portfolio from '../../public/portfolio -web.png';
 import figma from '../../public/figma.png';
-import online_bakery from '../../public/online_bakery.png';
+import Cara from '../../public/Cara.png'
 import Grace_Shop from '../../public/Grace_Shop.png';
 import Feedback_App from '../../public/Feedback_App.png';
 import java from '../../public/Java-Logo.png';
@@ -27,8 +27,8 @@ function Portfolio() {
     },
     {
       id: 3,
-      logo: online_bakery,
-      name: "Online Bakery",
+      logo: Cara,
+      name: "Cara E-commerce web",
       text:"This is Online Bakery Where you can make online order for cake or sweet",
       Deployed_link: "",
       GitHub_link:" https://github.com/Aftab-Ahmed1234/Online-Backery",
